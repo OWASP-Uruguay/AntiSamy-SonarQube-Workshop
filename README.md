@@ -1,11 +1,11 @@
-# AntiSamy-SonarQube-Workshop
+# AntiSamy-Workshop
 
-Repository for [OWASP Uruguay](https://owasp.org/uruguay) Meetup: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
+Repository for [OWASP Uruguay](https://owasp.org/uruguay) Meetup: [Workshop OWASP AntiSamy](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
-Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
+Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSamy](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
 ## Introducción
-En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy y sobre el SAST SonarQube
+En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy
 
 
 ## OWASP AntiSamy
