@@ -1,8 +1,11 @@
+# AntiSamy-SonarQube-Workshop
+
 Repository for [OWASP Uruguay](https://owasp.org/uruguay) Meetup: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
 Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
 ## Introducción
+En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy y sobre el SAST SonarQube
 
 
 ## OWASP AntiSamy 
@@ -149,6 +152,3 @@ Es similar a `Sanitize` pero retorna una lista con los errores detectados en lug
         return BadRequest(new { error = new string[] { "Errors in short description: " + string.Join(",\n", errors) } });
     }
     ```
-
-## SonarQube
-
