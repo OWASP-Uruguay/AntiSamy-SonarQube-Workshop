@@ -8,7 +8,9 @@ Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSam
 En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy y sobre el SAST SonarQube
 
 
-## OWASP AntiSamy 
+## OWASP AntiSamy
+
+Presentación [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
 
 ### Inicio de ambiente local
 
