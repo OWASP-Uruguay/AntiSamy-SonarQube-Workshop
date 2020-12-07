@@ -7,6 +7,8 @@ Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSam
 ## Introducción
 En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy y sobre la herramienta de SAST SonarQube
 
+Video [aquí]()
+
 ## OWASP AntiSamy
 
 Presentación AntiSamy [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
@@ -157,6 +159,16 @@ Es similar a `Sanitize` pero retorna una lista con los errores detectados en lug
 
 ## SonarQube
 
-[//]: # (Presentación SonarQube 101)
+Presentación SonarQube 101 [aquí](https://drive.google.com/file/d/1z_ztxxj1O4oydbb2j_MvZcMuytbka-bO/view?usp=sharing)
 
-[//]: # (Agregar links y demás acá)
+Links de interes:
+* SonarQube: https://www.sonarqube.org
+* SonarQube Docker: https://hub.docker.com/_/sonarqube
+
+Otros links:
+* OWASP mantiene un listado de herramientas para SAST en:  https://owasp.org/www-community/Source_Code_Analysis_Tools
+* SpotBugs: https://spotbugs.github.io
+* PMD: https://pmd.github.io
+* AppScan (HCL): https://www.hcltech.com/software/appscan-standard
+* CxSAST: https://www.checkmarx.com/products/static application-security-testing/
+* Fortify (Microfocus): https://www.microfocus.com/en/us/products/static-code-analysis-sast/overview
