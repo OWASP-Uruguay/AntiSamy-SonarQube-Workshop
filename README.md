@@ -157,6 +157,6 @@ Es similar a `Sanitize` pero retorna una lista con los errores detectados en lug
 
 ## SonarQube
 
-[//]: # (Presentación SonarQube 101 [aquí](link a drive))
+[//]: # (Presentación SonarQube 101)
 
 [//]: # (Agregar links y demás acá)
