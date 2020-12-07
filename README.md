@@ -1,16 +1,15 @@
-# AntiSamy-Workshop
+# OWASP AntiSamy y SonarQube Workshop
 
-Repository for [OWASP Uruguay](https://owasp.org/uruguay) Meetup: [Workshop OWASP AntiSamy](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
+Repository for [OWASP Uruguay](https://owasp.org/uruguay) Meetup: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
-Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSamy](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
+Repositorio para el Meetup organizado por OWASP Uruguay: [Workshop OWASP AntiSamy y SonarQube 101](https://www.meetup.com/es/OWASP-Uruguay-Chapter/events/274852316/)
 
 ## Introducción
-En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy
-
+En este workshop aprenderemos acerca del proyecto de OWASP AntiSamy y sobre la herramienta de SAST SonarQube
 
 ## OWASP AntiSamy
 
-Presentación [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
+Presentación AntiSamy [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
 
 ### Inicio de ambiente local
 
@@ -154,3 +153,10 @@ Es similar a `Sanitize` pero retorna una lista con los errores detectados en lug
         return BadRequest(new { error = new string[] { "Errors in short description: " + string.Join(",\n", errors) } });
     }
     ```
+
+
+## SonarQube
+
+[//]: # (Presentación SonarQube 101 [aquí](link a drive))
+
+[//]: # (Agregar links y demás acá)
